@@ -24,3 +24,4 @@ theme:
         name: Switch to system preference
   features:
     - navigation.tabs
+    - navigation.indexes 

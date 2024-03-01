@@ -26,3 +26,14 @@ theme:
     - navigation.tabs
     - navigation.indexes 
     - navigation.top
+
+nav:
+  - Home: index.md
+  - Unblocked Sites:
+    - Gmae Sites: unblocked-sites/game-sites.md
+    - Hosted Services: unblocked-sites/hosted-services.md
+  - Guides:
+    - Guides: guides/index.md
+  - Exploits:
+    - Exploits: exploits/index.html
+  - Other: other.md

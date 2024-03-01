@@ -30,10 +30,10 @@ theme:
 nav:
   - Home: index.md
   - Unblocked Sites:
-    - Gmae Sites: unblocked-sites/game-sites.md
+    - Gmae Sites: unblocked-sites/gmae-sites.md
     - Hosted Services: unblocked-sites/hosted-services.md
   - Guides:
-    - Guides: guides/index.md
+    - Guides: guides
   - Exploits:
-    - Exploits: exploits/index.html
-  - Other: other.md
+    - Exploits: exploits
+  - Other: other

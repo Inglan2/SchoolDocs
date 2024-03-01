@@ -1,6 +1,8 @@
 site_name: ACTEDU Docs
 site_url: https://inglan2.github.io/ACTEDUDocs
 theme:
+  icon:
+    logo: material/school-outline
   name: material
   palette: 
 

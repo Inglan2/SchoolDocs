@@ -37,7 +37,7 @@ nav:
     - Gmae Sites: unblocked-sites/gmae-sites.md
     - Hosted Services: unblocked-sites/hosted-services.md
   - Guides:
-    - Guides: guides
+    - Guides: guides/index.md
   - Exploits:
-    - Exploits: exploits
+    - Exploits: exploits/index.md
   - Other: other

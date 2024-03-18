@@ -1,5 +1,5 @@
-site_name: ACTEDU Docs
-site_url: https://inglan2.github.io/ACTEDUDocs
+site_name: SchoolDocs
+site_url: https://inglan2.github.io/SchoolDocs
 theme:
   icon:
     logo: material/school-outline

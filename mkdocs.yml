@@ -4,8 +4,7 @@ theme:
   icon:
     logo: material/school-outline
   name: material
-  palette: 
-
+  palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -14,7 +13,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -27,19 +26,24 @@ theme:
         name: Switch to system preference
   features:
     - navigation.tabs
-    - navigation.indexes 
+    - navigation.indexes
     - navigation.top
     - navigation.instant
     - navigation.instant.progress
 
-
 nav:
   - Home: index.md
   - Unblocked Sites:
-    - Gmae Sites: unblocked-sites/gmae-sites.md
-    - Hosted Services: unblocked-sites/hosted-services.md
+      - Gmae Sites: unblocked-sites/gmae-sites.md
+      - Hosted Services: unblocked-sites/hosted-services.md
   - Guides:
-    - Guides: guides/index.md
+      - Guides: guides/index.md
   - Exploits:
-    - Exploits: exploits/index.md
+      - Exploits: exploits/index.md
   - Other: other.md
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg

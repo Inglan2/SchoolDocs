@@ -52,3 +52,4 @@ markdown_extensions:
   - pymdownx.snippets
 extra:
   generator: false
+copyright: I am not responsible for any trouble you get into by using this

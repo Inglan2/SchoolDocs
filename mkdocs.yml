@@ -3,7 +3,7 @@ site_url: https://inglan2.github.io/SchoolDocs
 theme:
   icon:
     logo: material/school-outline
-    repo: fontawesome/brands/git-alt
+    repo: fontawesome/brands/github
   name: material
   palette:
     # Palette toggle for automatic mode

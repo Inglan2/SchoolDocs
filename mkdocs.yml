@@ -3,6 +3,7 @@ site_url: https://inglan2.github.io/SchoolDocs
 theme:
   icon:
     logo: material/school-outline
+    repo: fontawesome/brands/git-alt
   name: material
   palette:
     # Palette toggle for automatic mode
@@ -53,3 +54,5 @@ markdown_extensions:
 extra:
   generator: false
 copyright: I am not responsible for any trouble you get into by using this
+repo_url: https://github.com/Inglan2/SchoolDocs
+repo_name: Inglan2/SchoolDocs

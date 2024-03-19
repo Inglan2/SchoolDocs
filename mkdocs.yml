@@ -30,6 +30,7 @@ theme:
     - navigation.top
     - navigation.instant
     - navigation.instant.progress
+    - content.tooltips
 
 nav:
   - Home: index.md
